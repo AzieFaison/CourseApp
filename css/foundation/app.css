@@ -7403,5 +7403,11 @@ th.hide-for-touch {
 
 /* line 43, ../../scss/foundation/app.scss */
 body {
-  background-size: 100% 100%;
+  background-size: cover;
+}
+
+/* line 46, ../../scss/foundation/app.scss */
+.customVid {
+  margin-top: 6.25rem;
+  margin-bottom: 6.25rem;
 }

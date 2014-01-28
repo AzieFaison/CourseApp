@@ -41,5 +41,9 @@
 
 
 body {
-	background-size: 100% 100%;
+	background-size: cover;
+}
+.customVid {
+	margin-top: rem-calc(100px);
+	margin-bottom: rem-calc(100px);
 }
